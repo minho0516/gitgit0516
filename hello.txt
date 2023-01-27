@@ -1,0 +1,6 @@
+ctrl+s save
+ctrl + ~
+글이안써짐 ctrl + c 누르고 enter
+git init 은 이 디렉토리를 깃에서 관리하는 디렉토리 
+스테이지에 더하는 명령어는 git add 파일명 예=hello.txt
+a가 m으로 변하면 다시 add 
