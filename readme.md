@@ -8,8 +8,7 @@
 이미지
 좋아하는 색 밝은색
 좋아하는 음식 스시
-좋아하는 게임은 못 정하겠어요 
-
+좋아하는 게임은 못 정하겠어요
 
 언젠간 나도 잘해질수 있을수 있게 노력해야지 
 <img src =https://news.jj.ac.kr/wp-content/uploads/2019/07/2807_4002_2040.png>
@@ -31,7 +30,7 @@ fontcolor#0
 
 
 img src= "https://img.shields.io/badge/minho=#00000?style=flat-square&logo=good&lodocolor=#0000FF
-외않되?
-<img src https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA0MDZfMTI2%2FMDAxNjE3NjY2OTM1OTEx.MR_ln7XVOfZxL1tk9ewyKoFwzTTR2GbrSOg6UpUhVMEg.hxyrOzpoZ28cl_7uUZOrSTORPYE0TxHSS4P23Z5wAPog.JPEG.gimi7%2Feaster-4143537_1920.jpg&type=sc960_832>
+
+<img src https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA0MDZfMTI2%2FMDAxNjE3NjY2OTM1OTEx.MR_ln7XVOfZxL1tk9ewyKoFwzTTR2GbrSOg6UpUhVMEg.hxyrOzpoZ28cl_7uUZOrSTORPYE0TxHSS4P23Z5wAPog.JPEG.gimi7%2Fea
 dddddd
 ㅇ
