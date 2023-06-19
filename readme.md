@@ -10,27 +10,4 @@
 좋아하는 음식 스시
 좋아하는 게임은 못 정하겠어요
 
-언젠간 나도 잘해질수 있을수 있게 노력해야지 
-<img src =https://news.jj.ac.kr/wp-content/uploads/2019/07/2807_4002_2040.png>
-<fontsize 15
-
-
-w짜사진 들어가서 너무 기쁘다 ㅠㅠ 이렇게 하나하나 해 나가는 건가요 ㅠ.ㅠ
-내가 좋아하는 걸 하나씩 채워나가고 싶은 사이트입니다
-고맙습니다.
-fontcolor#0
-000FF
->저의 이름은 박민호 입니다
-저도 이쁘게 만들고싶은데 사진도 안들어가고 너무어렵네요  모르겠습니다 이따가 영상 돌려보겠습니다https://img.shields.io/appveyor/build/minho0516/meow
-<img src="https://img.shields.io/badge/youtube-#0000ff<img 
-?style=flat-square&logo=로고명&logoColor=로고색"/>
-<img src=https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA0MDZfMTI2%2FMDAxNjE3NjY2OTM1OTEx.MR_ln7XVOfZxL1tk9ewyKoFwzTTR2GbrSOg6UpUhVMEg.hxyrOzpoZ28cl_7uUZOrSTORPYE0TxHSS4P23Z5wAPog.JPEG.gimi7%2Feaster-4143537_1920.jpg&type=sc960_832
-"https://img.shields.io/badge/youtube-색상코드?style=flat-square&logo=minho&logoColor=#0000FF
-"/>
-
-
-img src= "https://img.shields.io/badge/minho=#00000?style=flat-square&logo=good&lodocolor=#0000FF
-
-<img src https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA0MDZfMTI2%2FMDAxNjE3NjY2OTM1OTEx.MR_ln7XVOfZxL1tk9ewyKoFwzTTR2GbrSOg6UpUhVMEg.hxyrOzpoZ28cl_7uUZOrSTORPYE0TxHSS4P23Z5wAPog.JPEG.gimi7%2Fea
-dddddd
-ㅇ
+23 - 6- 20나는 이 학교에 들어온지 약 3개월 정도 된  하지만 아직 많이 부족한 나는 매우 슬픈 나는 정처기와 고통스러운 몸 덕분에 고통속에서 수련을 할수 있게된 매우 고맙다고 생각하는
